@@ -1,0 +1,13 @@
+@import "./font.css";
+@import "tailwindcss";
+
+@theme {
+  --font-SFthin: "SF-pro-thin", "sans-serif";
+  --font-SFlight: "SF-pro-light", "sans-serif";
+  --font-SFregular: "SF-pro-regular", "sans-serif";
+  --font-SFmedium: "SF-pro-medium", "sans-serif";
+  --font-SFsemibold: "SF-pro-semibold", "sans-serif";
+  --font-SFbold: "SF-pro-bold",  "sans-serif";
+  --font-SFheavy: "SF-pro-heavy",  "sans-serif";
+  --font-SFblack: "SF-pro-black",  "sans-serif";
+}
